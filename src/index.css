@@ -1,5 +1,15 @@
-body {
+/* Root and body setup for sticky footer */
+html, body {
+  min-height: 100vh;
   margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +20,34 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* Page wrapper for sticky footer - apply to each page's root div */
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Make main content area grow */
+.page-wrapper > .container,
+.page-wrapper > main,
+.flex-grow-1 {
+  flex: 1 0 auto;
+}
+
+/* Footer stays at bottom */
+.page-wrapper > footer {
+  flex-shrink: 0;
+}
+
+/* Active nav link styling */
+.nav-link.active-page {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
+
+/* Ensure smooth page transitions */
+.page-wrapper > .container {
+  padding-bottom: 2rem;
 }

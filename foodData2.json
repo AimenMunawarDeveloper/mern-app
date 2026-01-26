@@ -1,148 +1,282 @@
 [
-    {
-        "CategoryName": "Biryani/Rice",
-        "name": "Chicken Fried Rice",
-        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "options": [
-            {
-                "half": "130",
-                "full": "220"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Biryani/Rice",
-        "name": "Veg Fried Rice",
-        "img": "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmVnJTIwZnJpZWQlMjByaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "options": [
-            {
-                "half": "110",
-                "full": "200"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Biryani/Rice",
-        "name": "Fish Biryani",
-        "img": "https://media.istockphoto.com/photos/king-fish-biryani-with-raita-served-in-a-golden-dish-isolated-on-dark-picture-id1409942571?b=1&k=20&m=1409942571&s=170667a&w=0&h=ozlMJf5hsDmS2sSdEdBWnoSZOEITef4qGMeWeq2lyTc=",
-        "options": [
-            {
-                "half": "200",
-                "full": "320"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Biryani/Rice",
-        "name": "Chicken Biryani",
-        "img": "https://cdn.pixabay.com/photo/2019/11/04/12/16/rice-4601049__340.jpg",
-        "options": [
-            {
-                "half": "170",
-                "full": "300"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Biryani/Rice",
-        "name": "Veg Biryani",
-        "img": "https://media.istockphoto.com/photos/veg-biryani-picture-id1363306527?b=1&k=20&m=1363306527&s=170667a&w=0&h=VCbro7CX8nq2kruynWOCO2GbMGCea2dDJy6O6ebCKD0=",
-        "options": [
-            {
-                "half": "150",
-                "full": "260"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Biryani/Rice",
-        "name": "Prawns Fried Rice",
-        "img": "https://cdn.pixabay.com/photo/2018/03/23/08/27/thai-fried-rice-3253027__340.jpg",
-        "options": [
-            {
-                "half": "120",
-                "full": "220"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Starter",
-        "name": "Chilli Paneer",
-        "img": "https://media.istockphoto.com/photos/spicy-paneer-or-chilli-paneer-or-paneer-tikka-or-cottage-cheese-in-picture-id697316634?b=1&k=20&m=697316634&s=170667a&w=0&h=bctfHdYTz9q2dJUnuxGRDUUwC9UBWjL_oQo5ECVVDAs=",
-        "options": [
-            {
-                "half": "120",
-                "full": "200"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Starter",
-        "name": "Paneer 65",
-        "img": "https://media.istockphoto.com/photos/paneer-tikka-kabab-in-red-sauce-is-an-indian-dish-made-from-chunks-of-picture-id1257507446?b=1&k=20&m=1257507446&s=170667a&w=0&h=Nd7QsslbvPqOcvwu1bY0rEPZXJqwoKTYCal3nty4X-Y=",
-        "options": [
-            {
-                "half": "150",
-                "full": "260"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Starter",
-        "name": "Chicken Tikka",
-        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMHRpa2thfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "options": [
-            {
-                "half": "170",
-                "full": "300"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Starter",
-        "name": "Paneer Tikka",
-        "img": "https://media.istockphoto.com/photos/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-picture-id1186759790?k=20&m=1186759790&s=612x612&w=0&h=e9MlX_7cZtq9_-ORGLPNU27VNP6SvDz7s-iwTxrf7wU=",
-        "options": [
-            {
-                "half": "170",
-                "full": "250"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Pizza",
-        "name": "Chicken Cheese Pizza",
-        "img": "https://media.istockphoto.com/photos/double-topping-pizza-on-the-wooden-desk-isolated-picture-id1074109872?k=20&m=1074109872&s=612x612&w=0&h=JoYwwTfU_mMBykXpRB_DmgeecfotutOIO9pV5_JObpk=",
-        "options": [
-            {
-                "regular": "120",
-                "medium": "230",
-                "large": "350"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    },
-    {
-        "CategoryName": "Pizza",
-        "name": "Mix Veg Pizza",
-        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
-        "options": [
-            {
-                "regular": "100",
-                "medium": "200",
-                "large": "300"
-            }
-        ],
-        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
-    }
+  {
+    "restaurantName": "Karachi Biryani House",
+    "categoryName": "Biryani",
+    "name": "Chicken Biryani",
+    "img": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600",
+    "options": [{ "half": 280, "full": 480 }],
+    "description": "Authentic Karachi-style chicken biryani with aromatic basmati rice, tender chicken pieces, and secret family spices. Served with raita."
+  },
+  {
+    "restaurantName": "Karachi Biryani House",
+    "categoryName": "Biryani",
+    "name": "Mutton Biryani",
+    "img": "https://images.unsplash.com/photo-1642821373181-696a54913e93?w=600",
+    "options": [{ "half": 380, "full": 650 }],
+    "description": "Premium mutton biryani slow-cooked with saffron-infused rice and tender mutton pieces. A royal feast!"
+  },
+  {
+    "restaurantName": "Karachi Biryani House",
+    "categoryName": "Biryani",
+    "name": "Sindhi Biryani",
+    "img": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600",
+    "options": [{ "half": 300, "full": 520 }],
+    "description": "Spicy Sindhi-style biryani with potatoes, dried plums, and extra masala. Famous Karachi specialty!"
+  },
+  {
+    "restaurantName": "Karachi Biryani House",
+    "categoryName": "Biryani",
+    "name": "Beef Pulao",
+    "img": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600",
+    "options": [{ "half": 250, "full": 420 }],
+    "description": "Traditional beef pulao with aromatic spices and tender beef cubes. Simple yet delicious!"
+  },
+  {
+    "restaurantName": "Lahori Karahi",
+    "categoryName": "Karahi",
+    "name": "Chicken Karahi",
+    "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=600",
+    "options": [{ "half": 850, "full": 1500 }],
+    "description": "Lahori-style chicken karahi cooked in desi ghee with tomatoes, green chilies, and fresh coriander. Served sizzling hot!"
+  },
+  {
+    "restaurantName": "Lahori Karahi",
+    "categoryName": "Karahi",
+    "name": "Mutton Karahi",
+    "img": "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?w=600",
+    "options": [{ "half": 1200, "full": 2200 }],
+    "description": "Premium mutton karahi with rich gravy, perfect blend of spices. Gawalmandi's finest!"
+  },
+  {
+    "restaurantName": "Lahori Karahi",
+    "categoryName": "BBQ",
+    "name": "Seekh Kabab",
+    "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600",
+    "options": [{ "half": 400, "full": 750 }],
+    "description": "Juicy beef seekh kababs grilled on charcoal. Served with naan and chutney."
+  },
+  {
+    "restaurantName": "Lahori Karahi",
+    "categoryName": "BBQ",
+    "name": "Chicken Tikka",
+    "img": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=600",
+    "options": [{ "half": 450, "full": 800 }],
+    "description": "Tender chicken tikka marinated in yogurt and spices, grilled to perfection."
+  },
+  {
+    "restaurantName": "Peshawar Chapli Kabab",
+    "categoryName": "BBQ",
+    "name": "Chapli Kabab",
+    "img": "https://images.unsplash.com/photo-1606471191009-63994c53433b?w=600",
+    "options": [{ "regular": 120 }],
+    "description": "Authentic Peshawari chapli kabab with beef mince, tomatoes, and special spices. Served with naan."
+  },
+  {
+    "restaurantName": "Peshawar Chapli Kabab",
+    "categoryName": "BBQ",
+    "name": "Namkeen Tikka",
+    "img": "https://images.unsplash.com/photo-1628294896516-344152572ee8?w=600",
+    "options": [{ "half": 500, "full": 900 }],
+    "description": "Famous Peshawari namkeen (salty) beef tikka. A KPK delicacy!"
+  },
+  {
+    "restaurantName": "Peshawar Chapli Kabab",
+    "categoryName": "Biryani",
+    "name": "Kabuli Pulao",
+    "img": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=600",
+    "options": [{ "half": 350, "full": 600 }],
+    "description": "Traditional Afghani-style Kabuli pulao with raisins, carrots, and tender lamb."
+  },
+  {
+    "restaurantName": "Bundu Khan",
+    "categoryName": "BBQ",
+    "name": "Malai Boti",
+    "img": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=600",
+    "options": [{ "half": 550, "full": 950 }],
+    "description": "Creamy, tender chicken boti marinated in malai and cheese. Melt-in-mouth delicious!"
+  },
+  {
+    "restaurantName": "Bundu Khan",
+    "categoryName": "BBQ",
+    "name": "Beef Boti",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600",
+    "options": [{ "half": 600, "full": 1050 }],
+    "description": "Tender beef boti cubes grilled on charcoal with special Bundu Khan masala."
+  },
+  {
+    "restaurantName": "Bundu Khan",
+    "categoryName": "Karahi",
+    "name": "Brain Karahi",
+    "img": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=600",
+    "options": [{ "half": 700, "full": 1200 }],
+    "description": "Exotic brain karahi - a delicacy for adventurous foodies. Rich and creamy!"
+  },
+  {
+    "restaurantName": "Bundu Khan",
+    "categoryName": "BBQ",
+    "name": "Reshmi Kabab",
+    "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600",
+    "options": [{ "half": 480, "full": 850 }],
+    "description": "Silky smooth chicken reshmi kabab. So tender it melts in your mouth!"
+  },
+  {
+    "restaurantName": "Kaybees Cafe",
+    "categoryName": "Burgers",
+    "name": "Zinger Burger",
+    "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600",
+    "options": [{ "regular": 450 }],
+    "description": "Crispy zinger chicken fillet with lettuce, mayo, and special sauce. Best in town!"
+  },
+  {
+    "restaurantName": "Kaybees Cafe",
+    "categoryName": "Burgers",
+    "name": "Beef Burger",
+    "img": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=600",
+    "options": [{ "regular": 520 }],
+    "description": "Juicy beef patty with cheese, onions, pickles, and signature sauce."
+  },
+  {
+    "restaurantName": "Kaybees Cafe",
+    "categoryName": "Pizza",
+    "name": "Chicken Fajita Pizza",
+    "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600",
+    "options": [{ "regular": 650, "medium": 1100, "large": 1500 }],
+    "description": "Loaded with chicken fajita, capsicum, onions, and extra cheese!"
+  },
+  {
+    "restaurantName": "Kaybees Cafe",
+    "categoryName": "Pizza",
+    "name": "Tikka Pizza",
+    "img": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600",
+    "options": [{ "regular": 700, "medium": 1200, "large": 1650 }],
+    "description": "Pakistani fusion - tikka topped pizza with special desi spices!"
+  },
+  {
+    "restaurantName": "Kaybees Cafe",
+    "categoryName": "Burgers",
+    "name": "Mighty Burger",
+    "img": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=600",
+    "options": [{ "regular": 680 }],
+    "description": "Double patty, double cheese, double delicious! For the hungry ones."
+  },
+  {
+    "restaurantName": "Phajja Siri Paye",
+    "categoryName": "Nihari/Paye",
+    "name": "Beef Nihari",
+    "img": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=600",
+    "options": [{ "half": 350, "full": 600 }],
+    "description": "Slow-cooked overnight beef nihari with bone marrow. Lahore's legendary breakfast!"
+  },
+  {
+    "restaurantName": "Phajja Siri Paye",
+    "categoryName": "Nihari/Paye",
+    "name": "Siri Paye",
+    "img": "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?w=600",
+    "options": [{ "half": 300, "full": 500 }],
+    "description": "Traditional Lahori siri paye (head and trotters) curry. Rich, gelatinous, and flavorful!"
+  },
+  {
+    "restaurantName": "Phajja Siri Paye",
+    "categoryName": "Nihari/Paye",
+    "name": "Nalli Nihari",
+    "img": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=600",
+    "options": [{ "half": 400, "full": 700 }],
+    "description": "Premium nihari with extra bone marrow (nalli). For true nihari lovers!"
+  },
+  {
+    "restaurantName": "Phajja Siri Paye",
+    "categoryName": "Nihari/Paye",
+    "name": "Haleem",
+    "img": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=600",
+    "options": [{ "half": 250, "full": 420 }],
+    "description": "Slow-cooked haleem with wheat, lentils, and shredded beef. Garnished with ginger and lemon."
+  },
+  {
+    "restaurantName": "Roll Masters",
+    "categoryName": "Paratha Rolls",
+    "name": "Chicken Paratha Roll",
+    "img": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600",
+    "options": [{ "regular": 280 }],
+    "description": "Crispy paratha stuffed with spicy chicken tikka, onions, and chutney."
+  },
+  {
+    "restaurantName": "Roll Masters",
+    "categoryName": "Paratha Rolls",
+    "name": "Seekh Kabab Roll",
+    "img": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+    "options": [{ "regular": 320 }],
+    "description": "Freshly grilled seekh kabab wrapped in hot paratha with mint raita."
+  },
+  {
+    "restaurantName": "Roll Masters",
+    "categoryName": "Shawarma",
+    "name": "Chicken Shawarma",
+    "img": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600",
+    "options": [{ "regular": 250, "large": 380 }],
+    "description": "Middle Eastern style chicken shawarma with garlic sauce and pickles."
+  },
+  {
+    "restaurantName": "Roll Masters",
+    "categoryName": "Shawarma",
+    "name": "Beef Shawarma",
+    "img": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=600",
+    "options": [{ "regular": 300, "large": 450 }],
+    "description": "Tender beef shawarma with tahini sauce, wrapped in fresh bread."
+  },
+  {
+    "restaurantName": "Roll Masters",
+    "categoryName": "Paratha Rolls",
+    "name": "Malai Boti Roll",
+    "img": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600",
+    "options": [{ "regular": 350 }],
+    "description": "Creamy malai boti wrapped in crispy paratha with special sauce."
+  },
+  {
+    "restaurantName": "Karachi Biryani House",
+    "categoryName": "Beverages",
+    "name": "Lassi",
+    "img": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600",
+    "options": [{ "regular": 80, "large": 120 }],
+    "description": "Traditional sweet or salty lassi. Perfect with biryani!"
+  },
+  {
+    "restaurantName": "Lahori Karahi",
+    "categoryName": "Beverages",
+    "name": "Doodh Patti",
+    "img": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=600",
+    "options": [{ "regular": 60 }],
+    "description": "Strong Lahori doodh patti chai. The perfect end to your meal!"
+  },
+  {
+    "restaurantName": "Kaybees Cafe",
+    "categoryName": "Beverages",
+    "name": "Fresh Lime",
+    "img": "https://images.unsplash.com/photo-1621263764928-df1444c5e859?w=600",
+    "options": [{ "regular": 120 }],
+    "description": "Refreshing fresh lime with mint. Sweet or salty!"
+  },
+  {
+    "restaurantName": "Kaybees Cafe",
+    "categoryName": "Desserts",
+    "name": "Brownie with Ice Cream",
+    "img": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600",
+    "options": [{ "regular": 350 }],
+    "description": "Warm chocolate brownie served with vanilla ice cream and chocolate sauce."
+  },
+  {
+    "restaurantName": "Phajja Siri Paye",
+    "categoryName": "Desserts",
+    "name": "Kheer",
+    "img": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=600",
+    "options": [{ "regular": 150 }],
+    "description": "Traditional rice kheer with cardamom, almonds, and pistachios."
+  },
+  {
+    "restaurantName": "Bundu Khan",
+    "categoryName": "Desserts",
+    "name": "Gulab Jamun",
+    "img": "https://images.unsplash.com/photo-1666190050371-dc724537fe95?w=600",
+    "options": [{ "regular": 180 }],
+    "description": "Hot gulab jamuns soaked in sugar syrup. 4 pieces per serving."
+  }
 ]

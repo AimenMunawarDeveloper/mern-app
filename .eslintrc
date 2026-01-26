@@ -1,9 +1,12 @@
 {
   "env": {
-    "cypress/globals": true,
     "browser": true,
-    "node": true
+    "node": true,
+    "es6": true
   },
   "extends": ["react-app", "react-app/jest"],
-  "plugins": ["cypress"]
+  "globals": {
+    "cy": "readonly",
+    "Cypress": "readonly"
+  }
 }

@@ -1,17 +1,25 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "FoodHub Backend API",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "seed": "node seeder.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "end to end",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.0.0",
     "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
     "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.5.2",
+    "multer": "^1.4.5-lts.1",
     "nodemon": "^3.1.4"
   },
   "type": "module"

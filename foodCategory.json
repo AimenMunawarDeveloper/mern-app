@@ -1,11 +1,32 @@
 [
   {
-    "CategoryName": "Biryani/Rice"
+    "CategoryName": "Biryani"
   },
   {
-    "CategoryName": "Starter"
+    "CategoryName": "Karahi"
+  },
+  {
+    "CategoryName": "BBQ"
+  },
+  {
+    "CategoryName": "Nihari/Paye"
+  },
+  {
+    "CategoryName": "Paratha Rolls"
+  },
+  {
+    "CategoryName": "Burgers"
   },
   {
     "CategoryName": "Pizza"
+  },
+  {
+    "CategoryName": "Shawarma"
+  },
+  {
+    "CategoryName": "Desserts"
+  },
+  {
+    "CategoryName": "Beverages"
   }
 ]
